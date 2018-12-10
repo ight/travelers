@@ -1,0 +1,22 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+Ruby 2.3
+rails 4.0
+
+* Database creation
+sqlite
+
+
+* setting up
+git clone
+bundle install
+rake db:setup
+
+sgin_up to create users
+
